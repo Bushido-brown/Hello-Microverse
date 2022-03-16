@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@Busido-brown](https://github.com/Busido-brown)
 - Twitter: [@tuzyorizu](https://twitter.com/tuzyorizu)
-- LinkedIn: [Tochukwu Orizu](https://linkedin.com/in/Tochukwu Orizu)
+- LinkedIn: [TochukwuOrizu](https://linkedin.com/in/TochukwuOrizu)
 
 ## 🤝 Contributing
 
